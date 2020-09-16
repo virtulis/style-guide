@@ -93,6 +93,7 @@ When breaking line on an operator
 * Make sure all operands are on the same indentation level. Add parentheses if necessary.
 * Write the operator at the start of the second line, not at the end of the first.
 
+For example:
 
     if (
         a
